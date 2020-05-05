@@ -9,5 +9,3 @@ Lists: Ordered sequence of objects (mutable)
 Tuples: Ordered sequence of objects (immutable)
 
 Dictionary: Key-Value pairing that is unordered
-
-
